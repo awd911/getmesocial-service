@@ -1,6 +1,6 @@
-package repository;
+package com.example.getmesocialservice.repository;
 
-import model.User;
+import com.example.getmesocialservice.model.User;
 import org.springframework.stereotype.Repository;
 
 @Repository

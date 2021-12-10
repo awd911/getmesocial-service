@@ -1,9 +1,9 @@
-package service;
+package com.example.getmesocialservice.service;
 
-import model.User;
+import com.example.getmesocialservice.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.UserRepository;
+import com.example.getmesocialservice.repository.UserRepository;
 
 @Service
 public class UserService {
